@@ -1,0 +1,7 @@
+sensitive:
+  - 傻逼
+  - 操
+offline_num: 10
+message_queue: 1024
+#token_secret: 3brvwp63czty
+token_secret: 3hWXOpl8s12R
